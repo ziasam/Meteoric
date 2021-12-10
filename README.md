@@ -13,8 +13,8 @@ This a custom kernel for Oneplus 8T/9R.
 
 *TOTAL*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Meteoric-/total.svg)](https://github.com/ziasam/Meteoric-/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Meteoric/total.svg)](https://github.com/ziasam/Meteoric/releases)
 
 *DOWNLOAD COUNT BY BUILD VERSION*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Meteoric-/METEORIC-V2/total.svg)](https://github.com/ziasam/Meteoric-/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/ziasam/Meteoric/METEORIC-V2/total.svg)](https://github.com/ziasam/Meteoric/releases)
